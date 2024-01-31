@@ -1,0 +1,11 @@
+${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh
+${BUILT_PRODUCTS_DIR}/audio_session/audio_session.framework
+${BUILT_PRODUCTS_DIR}/audioplayers_darwin/audioplayers_darwin.framework
+${BUILT_PRODUCTS_DIR}/flutter_vibrate/flutter_vibrate.framework
+${BUILT_PRODUCTS_DIR}/flutter_voice_processor/flutter_voice_processor.framework
+${BUILT_PRODUCTS_DIR}/ios-voice-processor/ios_voice_processor.framework
+${BUILT_PRODUCTS_DIR}/just_audio/just_audio.framework
+${BUILT_PRODUCTS_DIR}/path_provider_foundation/path_provider_foundation.framework
+${BUILT_PRODUCTS_DIR}/record/record.framework
+${BUILT_PRODUCTS_DIR}/shared_preferences_foundation/shared_preferences_foundation.framework
+${BUILT_PRODUCTS_DIR}/url_launcher_ios/url_launcher_ios.framework

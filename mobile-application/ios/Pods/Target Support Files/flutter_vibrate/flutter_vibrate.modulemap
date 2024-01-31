@@ -1,0 +1,6 @@
+framework module flutter_vibrate {
+  umbrella header "flutter_vibrate-umbrella.h"
+
+  export *
+  module * { export * }
+}

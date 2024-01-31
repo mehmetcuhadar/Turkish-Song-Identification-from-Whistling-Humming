@@ -1,0 +1,6 @@
+framework module flutter_voice_processor {
+  umbrella header "flutter_voice_processor-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "flutter_voice_processor",
+  "version": "1.1.0",
+  "summary": "A Flutter audio recording plugin designed for real-time speech audio processing.",
+  "description": "The Flutter Voice Processor is an asynchronous audio capture library designed for real-time audio processing.\nGiven some specifications, the library delivers frames of raw audio data to the user via listeners.",
+  "homepage": "https://picovoice.ai/",
+  "license": {
+    "type": "Apache-2.0"
+  },
+  "authors": {
+    "Picovoice": "hello@picovoice.ai"
+  },
+  "source": {
+    "git": "https://github.com/Picovoice/flutter-voice-processor.git"
+  },
+  "source_files": "Classes/**/*",
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "ios-voice-processor": [
+      "~> 1.1.0"
+    ]
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES",
+    "EXCLUDED_ARCHS[sdk=iphonesimulator*]": "i386"
+  },
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}
